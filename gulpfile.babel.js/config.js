@@ -27,8 +27,12 @@ export const paths = {
     dest: 'dist/'
   },
   images: {
-    src: 'src/assets/img/**/*',
-    dest: 'dist/assets/img'
+    src: 'src/assets/medias/**/*',
+    dest: 'dist/assets/medias'
+  },
+  videos: {
+    src: 'src/assets/videos/**/*',
+    dest: 'dist/assets/videos'
   },
   fonts: {
     src: 'src/assets/fonts/**/*',
